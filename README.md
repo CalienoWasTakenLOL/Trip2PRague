@@ -1,12 +1,12 @@
 # Trip2PRague
-FRP Bypass method for Huawei P8Lite 2017 (PRA-LX1)
+FRP Bypass exploit for Huawei P8Lite 2017 (PRA-LX1)
 
 
 # WARNING: FOLLOW THIS GUIDE ONLY IF YOU'RE TRYING TO RECOVER A PHONE YOU ALREADY OWN, I DO NOT CONDONE USING THIS ON A STOLEN SMARTPHONE
 
 
 ## explanation
-This bypass uses an exploit in Google's "highlight to search" function allowing the user to access external applications outside of the OOBE with the intention of performing a ``` Clean factory reset ``` hence rewriting the FRP's check
+an exploit in Google's "highlight to search" function allowing the user to access external applications outside of the OOBE with the intention of performing a ``` Clean factory reset ``` hence rewriting the FRP's check
 
 # important caveats
 This exploit requires ``` Firmware version C432 ``` [which can be downloaded here](https://androidfilehost.com/?fid=1322778262904014852)
