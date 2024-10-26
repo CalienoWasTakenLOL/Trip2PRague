@@ -42,3 +42,14 @@ Note: Microsoft account is the only account that works with this exploit, adding
 Note: the log-in UI could appear broken, simply rotate the device sideways or scroll your finger on the top portion of the display and mash your finger on the screen until the keyboard appears and you can enter your email and password,
 unfortunately I have no fucking clue as to why the UI decided to break all of the sudden
 
+- after logging in, click "take me to gmail"
+- you will be redirected to the "compose" screen, click the 3dot menu in the top right corner of the screen
+- click "settings"
+- once again, click the 3dot menu and select "Manage Accounts"
+- inside the "complete action using" menu, select "Accounts" by clicking ```ALWAYS```
+
+## Step 3: reset
+- you should now be inside of the settings app
+- scroll down to System, then open it and select ```Reset``` > ```Reset all settings``` > and click the "RESET ALL SETTINGS" button twice
+- restart your phone by holding down Power and selecting "Restart"
+- done
