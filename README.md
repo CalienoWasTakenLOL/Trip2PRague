@@ -6,7 +6,8 @@ FRP Bypass exploit for Huawei P8Lite 2017 (PRA-LX1)
 
 
 ## explanation
-an exploit in Google's "highlight to search" function allowing the user to access external applications outside of the OOBE with the intention of performing a ``` Clean factory reset ``` hence rewriting the FRP's check
+the exploit essentially uses the "highlight to search" function to select a specific word in a web-based UI (for example inside the TOS) and sharing it to an external unsafe application which then redirects the user to the settings
+where they can perform a safe factory reset
 
 # important caveats
 This exploit requires ``` Firmware version C432 ``` [which can be downloaded here](https://androidfilehost.com/?fid=1322778262904014852)
